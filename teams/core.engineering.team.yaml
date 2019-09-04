@@ -1,0 +1,8 @@
+name: Core
+description: "the core team"
+parent: engineering
+maintainers:
+  - tomdavidson
+
+members:
+  - slcdavidson
